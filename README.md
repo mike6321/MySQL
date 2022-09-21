@@ -12,3 +12,4 @@ MySQL 스터디를 위한 repository 입니다.
   * [언두 테이블스페이스 관리](https://jwdeveloper.notion.site/1546e76a012446f584e38eeb82f60ea6)
 * [체인지 버퍼](https://jwdeveloper.notion.site/b017617141ca4efbb566a99619bc5118)
 * [리두 로그 및 로그 버퍼](https://jwdeveloper.notion.site/63b26c267c22480f8f1af20b6b84f63c)
+* [어댑티브 해시 인덱스](https://jwdeveloper.notion.site/dee624e65cc54bf1995858d66a547245)
