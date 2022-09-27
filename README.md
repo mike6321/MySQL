@@ -24,3 +24,7 @@ MySQL 스터디를 위한 repository 입니다.
   * [주의사항](https://jwdeveloper.notion.site/15aae72963ba498bab62ac3f1e86c6c4)
   * [MySQL 엔진의 잠금](https://jwdeveloper.notion.site/MySQL-68c8859cbed34389a06b678173001172)
     * [글로벌 락 & 백업 락](https://jwdeveloper.notion.site/b57de5b426944f8dad1c1dfd400d1b78)
+    * [테이블 락](https://jwdeveloper.notion.site/47be5f557ac04f2a9408bd5cb1fb9196)
+    * [네임드 락](https://jwdeveloper.notion.site/40617ac03c00454b929fc0989f4dbf1a)
+    * [메타데이터 락](https://jwdeveloper.notion.site/2409d70253f943cb84de3f9d959be295)
+  * [InnoDB 스토리지 엔진 잠금](https://jwdeveloper.notion.site/InnoDB-2664f1ab951e4ac9a59546bc6f3e8a34)
