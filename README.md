@@ -29,3 +29,19 @@ MySQL 스터디를 위한 repository 입니다.
     * [네임드 락](https://jwdeveloper.notion.site/d24b83de11ab49999d065c4cc7f598d4)
     * [메타데이터 락](https://jwdeveloper.notion.site/9a3ec3052b264fe9bddce14123d900d7)
   * [InnoDB 스토리지 엔진 잠금](https://jwdeveloper.notion.site/InnoDB-11099321a2d94218876d2afe39dcef88)
+  * [인덱스와 잠금](https://jwdeveloper.notion.site/7fe5ece8c85648b3af63315d5a623682)
+  * [레코드 수준의 잠금 확인 및 해제](https://jwdeveloper.notion.site/150b037bb88d43fb99f304105134707f)
+
+# 인덱스
+
+* 디스크 읽기 방식
+* 인덱스란?
+* B-Tree 인덱스
+* R-Tree 인덱스
+* 전문 검색 인덱스
+* 함수 기반 인덱스
+* 멀티 밸류 인덱스
+* 클러스터링 인덱스
+* 유니크 인덱스
+* 외래키
+
