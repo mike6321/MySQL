@@ -34,8 +34,11 @@ MySQL 스터디를 위한 repository 입니다.
 
 # 인덱스
 
-* 디스크 읽기 방식
-* 인덱스란?
+* [디스크 읽기 방식](https://jwdeveloper.notion.site/dc7f2a8dc9eb4921a0781cd4fa674311)
+  * [하드 디스크 드라이브(HDD)와 솔리드 스테이트 드라이브(SSD)](https://jwdeveloper.notion.site/HDD-SSD-2da319d4bbdd4c9ca2bae3927ffc20a0)
+  * [랜덤 I/O 와 순차 I/O](https://jwdeveloper.notion.site/I-O-I-O-353c103270074dd3b9b721a416ab7a4a)
+
+* [인덱스란?](https://jwdeveloper.notion.site/5bf6dd2a44184373a64098d5435a8d2e)
 * B-Tree 인덱스
 * R-Tree 인덱스
 * 전문 검색 인덱스
