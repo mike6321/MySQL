@@ -39,7 +39,11 @@ MySQL 스터디를 위한 repository 입니다.
   * [랜덤 I/O 와 순차 I/O](https://jwdeveloper.notion.site/I-O-I-O-353c103270074dd3b9b721a416ab7a4a)
 
 * [인덱스란?](https://jwdeveloper.notion.site/5bf6dd2a44184373a64098d5435a8d2e)
-* B-Tree 인덱스
+* [B-Tree 인덱스](https://jwdeveloper.notion.site/B-Tree-25a68f57346345c9aa14b1d9064c8ac5)
+  * [B-Tree 인덱스 - 구조 및 특성](https://jwdeveloper.notion.site/B-Tree-dbf53c127ed946f79bd292ee77eabd8b)
+  * [B-Tree 인덱스 키 추가 및 삭제](https://jwdeveloper.notion.site/B-Tree-74848804e6f84cbb85a27f447039957c)
+  * 
+
 * R-Tree 인덱스
 * 전문 검색 인덱스
 * 함수 기반 인덱스
