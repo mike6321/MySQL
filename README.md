@@ -42,8 +42,9 @@ MySQL 스터디를 위한 repository 입니다.
 * [B-Tree 인덱스](https://jwdeveloper.notion.site/B-Tree-25a68f57346345c9aa14b1d9064c8ac5)
   * [B-Tree 인덱스 - 구조 및 특성](https://jwdeveloper.notion.site/B-Tree-dbf53c127ed946f79bd292ee77eabd8b)
   * [B-Tree 인덱스 키 추가 및 삭제](https://jwdeveloper.notion.site/B-Tree-74848804e6f84cbb85a27f447039957c)
-  * 
-
+  * [B-Tree 인덱스 사용에 영향을 미치는 요소](https://jwdeveloper.notion.site/B-Tree-629fcfff724947f9bfe8682ac6ea07be)
+  * [B-Tree 인덱스 - 인덱스를 통한 데이터 읽기](https://jwdeveloper.notion.site/B-Tree-4fdf31277a704143aa424136f7b40126)
+  
 * R-Tree 인덱스
 * 전문 검색 인덱스
 * 함수 기반 인덱스
