@@ -37,7 +37,6 @@ MySQL 스터디를 위한 repository 입니다.
 * [디스크 읽기 방식](https://jwdeveloper.notion.site/dc7f2a8dc9eb4921a0781cd4fa674311)
   * [하드 디스크 드라이브(HDD)와 솔리드 스테이트 드라이브(SSD)](https://jwdeveloper.notion.site/HDD-SSD-2da319d4bbdd4c9ca2bae3927ffc20a0)
   * [랜덤 I/O 와 순차 I/O](https://jwdeveloper.notion.site/I-O-I-O-353c103270074dd3b9b721a416ab7a4a)
-
 * [인덱스란?](https://jwdeveloper.notion.site/5bf6dd2a44184373a64098d5435a8d2e)
 * [B-Tree 인덱스](https://jwdeveloper.notion.site/B-Tree-25a68f57346345c9aa14b1d9064c8ac5)
   * [B-Tree 인덱스 - 구조 및 특성](https://jwdeveloper.notion.site/B-Tree-dbf53c127ed946f79bd292ee77eabd8b)
@@ -46,11 +45,9 @@ MySQL 스터디를 위한 repository 입니다.
   * [B-Tree 인덱스 - 인덱스를 통한 데이터 읽기](https://jwdeveloper.notion.site/B-Tree-4fdf31277a704143aa424136f7b40126)
   * [다중 컬럼 인덱스](https://jwdeveloper.notion.site/84fd7e6f3b5e4e9f8171a4039927b4fe)
   * [B-Tree 인덱스 정렬 및 스캔 방향](https://jwdeveloper.notion.site/B-Tree-0aec7bd7c32f46b1aa5cdb2f6093f0ab)
-  
-* R-Tree 인덱스
-* 전문 검색 인덱스
-* 함수 기반 인덱스
-* 멀티 밸류 인덱스
+  * [B-Tree 인덱스 - 가용성과 효율성](https://jwdeveloper.notion.site/B-Tree-6a5fbde198924095bae0233a4c0cc2a0)
+* [함수 기반 인덱스](https://jwdeveloper.notion.site/77a8ae8295364789830a80448f236a88)
+* [멀티 밸류 인덱스](https://jwdeveloper.notion.site/ef5142ec47ac45d9b0c1375c33a48d49)
 * 클러스터링 인덱스
 * 유니크 인덱스
 * 외래키
