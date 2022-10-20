@@ -50,5 +50,5 @@ MySQL 스터디를 위한 repository 입니다.
 * [멀티 밸류 인덱스](https://jwdeveloper.notion.site/ef5142ec47ac45d9b0c1375c33a48d49)
 * [클러스터링 인덱스](https://jwdeveloper.notion.site/ecea385e40944cfaae20cefdca5da187)
 * [유니크 인덱스](https://jwdeveloper.notion.site/0bdb9b5cf8d44ec4aa4f96ebafad5a67)
-* 외래키
+* [외래키](https://jwdeveloper.notion.site/6805e2c6d3de48439ca3c9b0d9f3b023)
 
