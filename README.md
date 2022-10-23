@@ -52,3 +52,28 @@ MySQL 스터디를 위한 repository 입니다.
 * [유니크 인덱스](https://jwdeveloper.notion.site/0bdb9b5cf8d44ec4aa4f96ebafad5a67)
 * [외래키](https://jwdeveloper.notion.site/6805e2c6d3de48439ca3c9b0d9f3b023)
 
+# 쿼리 작성 및 최적화
+
+* 쿼리 작성과 연관된 시스템 변수
+  * SQL 모드
+  * 영문 대소문자 구분
+  * MySQL 예약어
+* 메뉴얼의 SQL 문법 표기를 읽는 방법
+* MySQL 연산자와 내장 함수
+  * 리터럴 표기법 문자열
+  * MySQL 연산자
+  * MySQL 내장 함수
+* SELECT
+  * SELECT 절의 처리 순서
+  * WHERE 절과 GROUP BY 절, ORDER BY 절의 인덱스 사용
+  * WHERE 절의 비교 조건 사용 시 주의사항
+  * DISTINCT
+  * LIMIT n
+  * COUNT()
+  * JOIN
+  * GROUP BY
+  * ORDER BY
+  * 서브쿼리
+  * CTE (Common Table Expression)
+  * 윈도우 함수 (Window Function)
+  * 잠금을 사용하는 SELECT
