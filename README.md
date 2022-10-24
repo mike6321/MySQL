@@ -54,19 +54,12 @@ MySQL 스터디를 위한 repository 입니다.
 
 # 쿼리 작성 및 최적화
 
-* 쿼리 작성과 연관된 시스템 변수
-  * SQL 모드
-  * 영문 대소문자 구분
-  * MySQL 예약어
-* 메뉴얼의 SQL 문법 표기를 읽는 방법
-* MySQL 연산자와 내장 함수
-  * 리터럴 표기법 문자열
-  * MySQL 연산자
-  * MySQL 내장 함수
-* SELECT
-  * SELECT 절의 처리 순서
-  * WHERE 절과 GROUP BY 절, ORDER BY 절의 인덱스 사용
-  * WHERE 절의 비교 조건 사용 시 주의사항
+* [SELECT](https://jwdeveloper.notion.site/SELECT-e6039ed47580474ca65609bae45c12c5)
+  * [SELECT 절의 처리 순서](https://jwdeveloper.notion.site/SELECT-810897e3266d4ed8954fe3f5853d2c3a)
+  * [WHERE 절과 GROUP BY 절, ORDER BY 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410)
+  * [WHERE 절의 비교 조건 사용 시 주의사항](https://jwdeveloper.notion.site/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410)
+    * [인덱스를 사용하기 위한 기본 규칙](https://www.notion.so/jwdeveloper/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410#134303f98bde477fbd9f0dd8b6f0ac8d)
+    * [WHERE 절의 인덱스 사용](https://www.notion.so/jwdeveloper/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410#af18c14fea10460a8da7fc263143fa87)
   * DISTINCT
   * LIMIT n
   * COUNT()
