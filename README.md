@@ -57,9 +57,14 @@ MySQL 스터디를 위한 repository 입니다.
 * [SELECT](https://jwdeveloper.notion.site/SELECT-e6039ed47580474ca65609bae45c12c5)
   * [SELECT 절의 처리 순서](https://jwdeveloper.notion.site/SELECT-810897e3266d4ed8954fe3f5853d2c3a)
   * [WHERE 절과 GROUP BY 절, ORDER BY 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410)
-  * [WHERE 절의 비교 조건 사용 시 주의사항](https://jwdeveloper.notion.site/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410)
-    * [인덱스를 사용하기 위한 기본 규칙](https://www.notion.so/jwdeveloper/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410#134303f98bde477fbd9f0dd8b6f0ac8d)
-    * [WHERE 절의 인덱스 사용](https://www.notion.so/jwdeveloper/WHERE-GROUP-BY-ORDER-BY-576cc6a3e508444f953cb824e740b410#af18c14fea10460a8da7fc263143fa87)
+    * [인덱스를 사용하기 위한 기본 규칙](https://jwdeveloper.notion.site/f90f44386f1a491eb65d57eff4924e71)
+    * [WHERE 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-8710936989034d0fb72749eb90fdf8ac)
+    * [GROUP BY 절의 인덱스 사용](https://jwdeveloper.notion.site/GROUP-BY-0fa8f256a65d4d009e30a5a6d1bbe1e8)
+    * [ORDER BY 절의 인덱스 사용](https://jwdeveloper.notion.site/ORDER-BY-ee7e2692766940629b0c0c0c7b2dc3e7)
+    * [WHERE 조건과 ORDER BY(GROUP BY) 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-ORDER-BY-GROUP-BY-132b711c215445fc99a8b37400ac2be5)
+    * [GROUP BY 절과 ORDER BY 절의 인덱스 사용](https://jwdeveloper.notion.site/GROUP-BY-ORDER-BY-c3e0a98ae91d4a64b7924c6f0b856d8e)
+    * [WHERE 조건과 ORDER BY 절, GROUP BY 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-ORDER-BY-GROUP-BY-7eda995c2ba64592bb6729ed82e640c4)
+  * WHERE 절의 비교 조건 사용 시 주의사항
   * DISTINCT
   * LIMIT n
   * COUNT()
