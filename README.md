@@ -64,7 +64,11 @@ MySQL 스터디를 위한 repository 입니다.
     * [WHERE 조건과 ORDER BY(GROUP BY) 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-ORDER-BY-GROUP-BY-132b711c215445fc99a8b37400ac2be5)
     * [GROUP BY 절과 ORDER BY 절의 인덱스 사용](https://jwdeveloper.notion.site/GROUP-BY-ORDER-BY-c3e0a98ae91d4a64b7924c6f0b856d8e)
     * [WHERE 조건과 ORDER BY 절, GROUP BY 절의 인덱스 사용](https://jwdeveloper.notion.site/WHERE-ORDER-BY-GROUP-BY-7eda995c2ba64592bb6729ed82e640c4)
-  * WHERE 절의 비교 조건 사용 시 주의사항
+  * [WHERE 절의 비교 조건 사용 시 주의사항](https://jwdeveloper.notion.site/WHERE-e41c41c563c846aaa2428af09b4ddb89)
+    * [NULL 비교](https://jwdeveloper.notion.site/NULL-be774cf8276d449d8ccdbbad47353e19)
+    * [문자열이나 숫자 비교](https://jwdeveloper.notion.site/e6e351afde024982ba4c986bb6bbe8d0)
+    * [날짜 비교](https://jwdeveloper.notion.site/140df3b9805c4a988566d1e365bd443c)
+    * [Short-Circuit Evaluation](https://jwdeveloper.notion.site/Short-Circuit-Evaluation-9c4613801cf24b8dbb04130101089c74)
   * DISTINCT
   * LIMIT n
   * COUNT()
