@@ -69,7 +69,7 @@ MySQL 스터디를 위한 repository 입니다.
     * [문자열이나 숫자 비교](https://jwdeveloper.notion.site/e6e351afde024982ba4c986bb6bbe8d0)
     * [날짜 비교](https://jwdeveloper.notion.site/140df3b9805c4a988566d1e365bd443c)
     * [Short-Circuit Evaluation](https://jwdeveloper.notion.site/Short-Circuit-Evaluation-9c4613801cf24b8dbb04130101089c74)
-  * DISTINCT
+  * [DISTINCT](https://jwdeveloper.notion.site/Distinct-2ec30f0d2b444857b12520a10daafecd)
   * LIMIT n
   * COUNT()
   * JOIN
