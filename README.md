@@ -69,13 +69,13 @@ MySQL 스터디를 위한 repository 입니다.
     * [문자열이나 숫자 비교](https://jwdeveloper.notion.site/e6e351afde024982ba4c986bb6bbe8d0)
     * [날짜 비교](https://jwdeveloper.notion.site/140df3b9805c4a988566d1e365bd443c)
     * [Short-Circuit Evaluation](https://jwdeveloper.notion.site/Short-Circuit-Evaluation-9c4613801cf24b8dbb04130101089c74)
-  * [DISTINCT](https://jwdeveloper.notion.site/Distinct-2ec30f0d2b444857b12520a10daafecd)
-  * LIMIT n
-  * COUNT()
-  * JOIN
-  * GROUP BY
-  * ORDER BY
-  * 서브쿼리
-  * CTE (Common Table Expression)
-  * 윈도우 함수 (Window Function)
-  * 잠금을 사용하는 SELECT
+  * [LIMIT](https://jwdeveloper.notion.site/LIMIT-84ac13e124d740b390382ede890f114a)
+  * [COUNT](https://jwdeveloper.notion.site/COUNT-a33135ce0efe480195a08b63fb7a62e5)
+* [JOIN](https://jwdeveloper.notion.site/JOIN-0323ab6c15dc4448bc5ff7007a220204)
+  * [JOIN의 순서와 인덱스](https://jwdeveloper.notion.site/JOIN-4a3369414e7e4812885532b587b06465)
+* GROUP BY
+* ORDER BY
+* 서브쿼리
+* CTE (Common Table Expression)
+* 윈도우 함수 (Window Function)
+* 잠금을 사용하는 SELECT
