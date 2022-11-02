@@ -73,6 +73,9 @@ MySQL 스터디를 위한 repository 입니다.
   * [COUNT](https://jwdeveloper.notion.site/COUNT-a33135ce0efe480195a08b63fb7a62e5)
 * [JOIN](https://jwdeveloper.notion.site/JOIN-0323ab6c15dc4448bc5ff7007a220204)
   * [JOIN의 순서와 인덱스](https://jwdeveloper.notion.site/JOIN-4a3369414e7e4812885532b587b06465)
+  * [JOIN 컬럼의 데이터 타입](https://jwdeveloper.notion.site/JOIN-745b9b4d866a4879a7895786b0561371)
+  * [OUTER JOIN의 성능과 주의사항](https://jwdeveloper.notion.site/OUTER-JOIN-3499ca6f6bbb47d1a0760efa6dff40e6)
+  * [지연된 조인](https://jwdeveloper.notion.site/0f7de544d10a482387b5feb5444abbf3)
 * GROUP BY
 * ORDER BY
 * 서브쿼리
