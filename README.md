@@ -76,8 +76,13 @@ MySQL 스터디를 위한 repository 입니다.
   * [JOIN 컬럼의 데이터 타입](https://jwdeveloper.notion.site/JOIN-745b9b4d866a4879a7895786b0561371)
   * [OUTER JOIN의 성능과 주의사항](https://jwdeveloper.notion.site/OUTER-JOIN-3499ca6f6bbb47d1a0760efa6dff40e6)
   * [지연된 조인](https://jwdeveloper.notion.site/0f7de544d10a482387b5feb5444abbf3)
-* GROUP BY
-* ORDER BY
+  * [래터럴 조인](https://jwdeveloper.notion.site/ae07afaff4084f879814fd41d4c58842)
+  * [실행 계획으로 인한 정렬 흐트러짐](https://jwdeveloper.notion.site/1f4eb7a60b654421a64ef1e205f8ca83)
+* [GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-b8d7078e1c1245779926e2833b3af2b9)
+  * [WITH ROLLUP](https://jwdeveloper.notion.site/WITH-ROLLUP-b5d91e95ad614204a309fcc8c82e0447)
+* [ORDER BY](https://jwdeveloper.notion.site/ORDER-BY-cefaace530e74756ac67f6c6b94e39d3)
+  * [ORDER BY 사용법 및 주의사항](https://jwdeveloper.notion.site/ORDER-BY-59388548c8ed4d6c9e9426e6864bca40)
+  * [여러 방향으로 동시 정렬](https://jwdeveloper.notion.site/403f933a6a924711b58a07278b21c5d1)
 * 서브쿼리
 * CTE (Common Table Expression)
 * 윈도우 함수 (Window Function)
