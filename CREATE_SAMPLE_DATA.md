@@ -110,6 +110,9 @@ CREATE OR REPLACE VIEW current_dept_emp AS
 
 flush /*!50503 binary */ logs;
 
+mysql -u root -p
+use employees
+
 source /Users/nhn/IdeaProjects/repository/test_db/load_departments.dump;
 source /Users/nhn/IdeaProjects/repository/test_db/load_employees.dump ;
 source /Users/nhn/IdeaProjects/repository/test_db/load_dept_emp.dump ;

@@ -84,6 +84,8 @@ MySQL 스터디를 위한 repository 입니다.
   * [ORDER BY 사용법 및 주의사항](https://jwdeveloper.notion.site/ORDER-BY-59388548c8ed4d6c9e9426e6864bca40)
   * [여러 방향으로 동시 정렬](https://jwdeveloper.notion.site/403f933a6a924711b58a07278b21c5d1)
 * 서브쿼리
+  * [SELECT 절에 사용된 서브쿼리](https://jwdeveloper.notion.site/SELECT-7dff4e9d11134b59b1fc56134932d865)
+  * [WHERE 절에 사용된 서브쿼리](https://jwdeveloper.notion.site/WHERE-d8239a5e5b434ea8b42a7fbdede60b4c)
 * CTE (Common Table Expression)
 * 윈도우 함수 (Window Function)
 * 잠금을 사용하는 SELECT
