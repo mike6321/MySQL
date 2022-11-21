@@ -86,6 +86,4 @@ MySQL 스터디를 위한 repository 입니다.
 * 서브쿼리
   * [SELECT 절에 사용된 서브쿼리](https://jwdeveloper.notion.site/SELECT-7dff4e9d11134b59b1fc56134932d865)
   * [WHERE 절에 사용된 서브쿼리](https://jwdeveloper.notion.site/WHERE-d8239a5e5b434ea8b42a7fbdede60b4c)
-* CTE (Common Table Expression)
-* 윈도우 함수 (Window Function)
-* 잠금을 사용하는 SELECT
+* [잠금을 사용하는 SELECT](https://jwdeveloper.notion.site/SELECT-85edb9d20dd44e5c806d207484dc9399)
