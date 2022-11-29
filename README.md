@@ -91,3 +91,11 @@ MySQL 스터디를 위한 repository 입니다.
 * [INSERT](https://jwdeveloper.notion.site/INSERT-600d96f7f80747bda03d3eb7535aa15b)
   * [고급 옵션](https://jwdeveloper.notion.site/8728b82ae4854540a16d7d8b7aeecd2c)
   * [LOAD DATA 명령 주의 사항](https://jwdeveloper.notion.site/LOAD-DATA-749b0c44492f43cf81d06e1702459805)
+
+# 옵티마이저와 힌트
+
+* [개요](https://jwdeveloper.notion.site/8d2bf51ce6fc475a9ad42ad6b96b836f)
+* [기본 데이터 처리](https://jwdeveloper.notion.site/03977967fd8d4f17aeb87f890125615d)
+  * [풀 테이블 스캔과 풀 인덱스 스캔](https://jwdeveloper.notion.site/23e7c240f2e34b8eafa2649561a41bdf)
+  * [병렬처리](https://jwdeveloper.notion.site/611beaf9c1ae4f59a3e21b564f2a73f9)
+  * [ORDER BY 처리](https://jwdeveloper.notion.site/ORDER-BY-24bfacf9820a41cdb62421ea22922143)
