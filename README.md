@@ -106,3 +106,7 @@ MySQL 스터디를 위한 repository 입니다.
       * [싱글 패스 정렬 방식](https://jwdeveloper.notion.site/8112ef6f04044cbbbdb34b1c7bba8de9)
       * [투 패스 정렬 방식](https://jwdeveloper.notion.site/8f75678442974b9ab8f8e8927516f8ab)
       * [싱글 패스 정렬 방식 VS 투 패스 정렬 방식](https://jwdeveloper.notion.site/VS-2fca8f9726504e3b88898d43dee1d1f4)
+      * [정렬 처리 방법](https://jwdeveloper.notion.site/5606b84b4cfb4d93b152d168a03f98ca)
+      * [정렬 처리 방법의 성능 비교](https://jwdeveloper.notion.site/fe61116c5e1b4a9b94918783fa8129c6)
+  * [GROUP BY 처리](https://jwdeveloper.notion.site/GROUP-BY-2c733ec67c5c461aac958f022556665f)
+    * [인덱스 스캔을 이용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-b8534353c8ba412ea5bf4046ae83f9fd)
