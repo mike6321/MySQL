@@ -110,3 +110,5 @@ MySQL 스터디를 위한 repository 입니다.
       * [정렬 처리 방법의 성능 비교](https://jwdeveloper.notion.site/fe61116c5e1b4a9b94918783fa8129c6)
   * [GROUP BY 처리](https://jwdeveloper.notion.site/GROUP-BY-2c733ec67c5c461aac958f022556665f)
     * [인덱스 스캔을 이용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-b8534353c8ba412ea5bf4046ae83f9fd)
+    * [루스 인덱스 스캔을 이용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-fe8da93d016b422aa6a7970c3ac92907)
+    * [임시 테이블을 사용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-006ba58a80164ac4aba6fb755efb1739)
