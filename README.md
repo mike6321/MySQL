@@ -95,9 +95,12 @@ MySQL 스터디를 위한 repository 입니다.
 # 옵티마이저와 힌트
 
 * [개요](https://jwdeveloper.notion.site/8d2bf51ce6fc475a9ad42ad6b96b836f)
+
 * [기본 데이터 처리](https://jwdeveloper.notion.site/03977967fd8d4f17aeb87f890125615d)
   * [풀 테이블 스캔과 풀 인덱스 스캔](https://jwdeveloper.notion.site/23e7c240f2e34b8eafa2649561a41bdf)
+  
   * [병렬처리](https://jwdeveloper.notion.site/611beaf9c1ae4f59a3e21b564f2a73f9)
+  
   * [ORDER BY 처리](https://jwdeveloper.notion.site/ORDER-BY-24bfacf9820a41cdb62421ea22922143)
     * [소트 버퍼](https://jwdeveloper.notion.site/2356405e3bed47888f8a377d2711a763)
     * [정렬 알고리즘](https://jwdeveloper.notion.site/9c095d84df8c4489b6c329f891f65fb5)
@@ -108,7 +111,23 @@ MySQL 스터디를 위한 repository 입니다.
       * [싱글 패스 정렬 방식 VS 투 패스 정렬 방식](https://jwdeveloper.notion.site/VS-2fca8f9726504e3b88898d43dee1d1f4)
       * [정렬 처리 방법](https://jwdeveloper.notion.site/5606b84b4cfb4d93b152d168a03f98ca)
       * [정렬 처리 방법의 성능 비교](https://jwdeveloper.notion.site/fe61116c5e1b4a9b94918783fa8129c6)
+  
   * [GROUP BY 처리](https://jwdeveloper.notion.site/GROUP-BY-2c733ec67c5c461aac958f022556665f)
+  
     * [인덱스 스캔을 이용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-b8534353c8ba412ea5bf4046ae83f9fd)
     * [루스 인덱스 스캔을 이용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-fe8da93d016b422aa6a7970c3ac92907)
     * [임시 테이블을 사용하는 GROUP BY](https://jwdeveloper.notion.site/GROUP-BY-006ba58a80164ac4aba6fb755efb1739)
+  
+  * [DISTINCT 처리](https://jwdeveloper.notion.site/DISTINCT-7f372d075e3549b79cd105878a812682)
+  
+    * [단순 DISTINCT SELECT](https://jwdeveloper.notion.site/DISTINCT-SELECT-bfcac934544b403695053a3831231402)
+    * [집합 함수와 함께 사용된 DISTINCT](https://jwdeveloper.notion.site/DISTINCT-cfa676cee4f3465d9530b940afba0c3a)
+  
+  * [내부 임시 테이블 활용](https://jwdeveloper.notion.site/4b48649e72f44d54a6f96213f13419d4)
+  
+    * [메모리 임시 테이블과 디스크 임시 테이블](https://jwdeveloper.notion.site/eca77e881b744c808e1defdf7c2ebeac)
+    * [임시 테이블이 필요한 쿼리](https://jwdeveloper.notion.site/ea6ae53f6af6440dad60e207790ffdb8)
+    * [임시 테이블이 디스크에 생성되는 경우](https://jwdeveloper.notion.site/71076c23de5c4f86900fd09543e215bf)
+    * [임시 테이블 구체적인 정보 조회](https://jwdeveloper.notion.site/52ba08193fac4447b916f5f000a51753)
+  
+    
