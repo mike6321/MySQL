@@ -95,7 +95,6 @@ MySQL 스터디를 위한 repository 입니다.
 # 옵티마이저와 힌트
 
 * [개요](https://jwdeveloper.notion.site/8d2bf51ce6fc475a9ad42ad6b96b836f)
-
 * [기본 데이터 처리](https://jwdeveloper.notion.site/03977967fd8d4f17aeb87f890125615d)
   * [풀 테이블 스캔과 풀 인덱스 스캔](https://jwdeveloper.notion.site/23e7c240f2e34b8eafa2649561a41bdf)
   
@@ -130,7 +129,7 @@ MySQL 스터디를 위한 repository 입니다.
     * [임시 테이블이 디스크에 생성되는 경우](https://jwdeveloper.notion.site/71076c23de5c4f86900fd09543e215bf)
     * [임시 테이블 구체적인 정보 조회](https://jwdeveloper.notion.site/52ba08193fac4447b916f5f000a51753)
   
-
 * [고급 최적화](https://jwdeveloper.notion.site/a25ea0cbf058415486558e73d1c76fb8)
   * [MRR과 배치 키 엑세스](https://jwdeveloper.notion.site/MRR-f3c6f2c97f01404891a99d779f6ca5e6)
   * [네스티드 루프 조인과 블록 네스티드 루프 조인](https://jwdeveloper.notion.site/6df7c45097134c04997e5d6baea8a23a)
+  * [인덱스 컨디션 푸시다운](https://jwdeveloper.notion.site/d4e3f90dc3f047eb932add92be696b32)
